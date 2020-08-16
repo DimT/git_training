@@ -1,3 +1,2 @@
 Hi! I'm Bob. I have been here for a while now.
 Bob, here is a new line
-This new line in master will create a conflict with change_alice branch.
