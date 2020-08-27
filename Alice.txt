@@ -6,3 +6,5 @@ Edit from Github.
 Conflicting edit from github.
 Change before pull.
 Change to rewrite history in Alice.
+Interactive rebase change in Alice.
+More text for interactive rebase.
