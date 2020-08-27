@@ -1,3 +1,4 @@
 Hi! I'm Bob. I have been here for a while now.
 Bob, here is a new line
 Change to rewrite history in Bob.
+Interactive rebase change in Bob.
